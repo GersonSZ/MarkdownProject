@@ -45,3 +45,7 @@ result = add_numbers(5, 7)
 print("The sum is:", result)
 
 ## License
+
+## Author
+
+Created as part of a Git and Markdown practice.
