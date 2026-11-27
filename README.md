@@ -24,8 +24,24 @@ Learn more about [Git Documentation](https://git-scm.com/doc).
 | Git | Version control | Completed |
 | GitHub | Online repository | In Progress |
 
+This project is **very important** for learning Git.
+Markdown is *easy to use* and helps organize documentation.
+You can save changes using `git commit`.
+ 
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 ## Installation
 
 ## Usage
+
+# This is a simple Python function to add two numbers
+
+def add_numbers(a, b):
+    """Return the sum of a and b."""
+    return a + b
+
+# Example usage
+result = add_numbers(5, 7)
+print("The sum is:", result)
 
 ## License
