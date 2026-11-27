@@ -4,6 +4,7 @@
 
 This project is created to practise Git and Markdown.
 It contains examples of documentation and version control.
+Learn more about [Git Documentation](https://git-scm.com/doc).
 
 ## Table of Contents
 
@@ -12,3 +13,11 @@ It contains examples of documentation and version control.
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Features
+
+## Installation
+
+## Usage
+
+## License
