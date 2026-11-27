@@ -18,6 +18,12 @@ Learn more about [Git Documentation](https://git-scm.com/doc).
 
 ## Features
 
+| Feature | Description | Status |
+|---|---|---|
+| Markdown | Project documentation | Completed |
+| Git | Version control | Completed |
+| GitHub | Online repository | In Progress |
+
 ## Installation
 
 ## Usage
