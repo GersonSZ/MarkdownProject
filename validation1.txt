@@ -1,0 +1,3 @@
+Git and Markdown practice completed.
+Repository initialized successfully.
+Commits created successfully.
