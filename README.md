@@ -49,3 +49,7 @@ print("The sum is:", result)
 ## Author
 
 Created as part of a Git and Markdown practice.
+
+## Contact
+
+Email: example@email.com
